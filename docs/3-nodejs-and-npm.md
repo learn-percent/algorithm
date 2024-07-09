@@ -18,4 +18,5 @@ NodeJS already provide us with some modules that we can import with some project
 
 # Glossary
 | Term    | Description |
+| ------- | ----------- |
 | Root    | When you run any command via Terminal, you will be running inside a folder. This folder is called "Root Folder" |

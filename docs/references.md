@@ -1,5 +1,6 @@
 # Glossary
 | Term      | Description |
+| --------- | ----------- |
 | Hypertext | Text displayed on a computer display, with references to another texts that the reader can immediately access |
 | Browser   | A program for displaying and navagating between websites |
 | Front-End | Visual portion of a application, where the users interact with |
